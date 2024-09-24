@@ -2,4 +2,4 @@
 layout: none
 permalink: .well-known/tor-relay/rsa-fingerprint.txt
 ---
-TEST
+1C1BE35B90BF5954C2773107438B68A965E5248A
